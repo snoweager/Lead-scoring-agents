@@ -19,6 +19,7 @@ The demo produces a ranked table of leads with individual signal flags and a fin
 * Funding / Grant Signal
 * Keyword Match Strength
 * Final Lead Score
+* The link: https://lead-scoring-agents-chsz2hddkmrpdy3x48ydmz.streamlit.app/
 
 ---
 
@@ -166,3 +167,4 @@ The stack is intentionally lightweight to maximize portability.
 ---
 
 This project demonstrates **product thinking, domain understanding, and scalable data design**, aligning closely with real-world scientific business development and intelligence platforms.
+
